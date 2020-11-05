@@ -1,0 +1,1 @@
+system.out.prinlin("stud");
